@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@center.peace:
+  ssh: vagrant:center.peace:/var/www/html
